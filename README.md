@@ -48,6 +48,7 @@
 
 <div align=center/right/left>
 	[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlsxo14700)](https://solved.ac/dlsxo1470})
+	
 	[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inate0099&layout=compact)
 </div>
 
