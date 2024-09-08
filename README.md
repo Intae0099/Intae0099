@@ -5,6 +5,8 @@
 	충북대학교 소프트웨어 학과 졸업 (2018.03 ~ 2024.02)
 </div>
 
+#
+
 <h3 align="center">📚Skills</h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
