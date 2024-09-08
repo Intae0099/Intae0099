@@ -47,9 +47,7 @@
 - - -
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dlsxo14700})](https://solved.ac/{dlsxo14700})
-
-![Intae0099's github stats](https://github-readme-stats.vercel.app/api?username=Intae0099)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlsxo14700)](https://solved.ac/dlsxo1470})
 
 <div align=center>
 	
