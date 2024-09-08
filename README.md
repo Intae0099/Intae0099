@@ -1,5 +1,10 @@
 <h1 align="center"> Developer Kim Tae In</h1>
 
+<h3 align="center">📝Profile</h3>
+<div align=center>
+	충북대학교 소프트웨어 학과 졸업 (2018.03 ~ 2024.02)
+</div>
+
 <h3 align="center">📚Skills</h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -24,6 +29,15 @@
 - - -
 
 <h3 align="center">🏆Award</h3>
+- 캡스톤디자인 전시회 (우수상)
+- 오픈소스 기초 프로젝트 영어 발표회 (우수상)
+- 제 7회 소프트웨어 경진대회 (장려상)
+<div align=center>
+</div>
+
+ <h3 align="center">Licence</h3>
+ - SQLD
+ - 정보처리기사
 <div align=center>
 </div>
 
