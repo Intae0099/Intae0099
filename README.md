@@ -1,20 +1,28 @@
-## Developer Kim Tae In
+<h1 align="center"> Developer Kim Tae In</h1>
+
+- - -
 
 <h3 align="center">📚Skills</h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=#4479A1">
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=#6DB33F">
 </div>
+
+- - -
 
 <h3 align="center">📚Stack</h3>
 <div align=center>
 </div>
 
+- - -
 
 <h3 align="center">🏆Award</h3>
 <div align=center>
 </div>
+
+- - -
 
 <div align=center>
 	
