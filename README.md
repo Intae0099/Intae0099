@@ -29,19 +29,27 @@
 - - -
 
 <h3 align="center">🏆Award</h3>
+<div align=center>
 - 캡스톤디자인 전시회 (우수상)
 - 오픈소스 기초 프로젝트 영어 발표회 (우수상)
 - 제 7회 소프트웨어 경진대회 (장려상)
-<div align=center>
-</div>
 
- <h3 align="center">Licence</h3>
- - SQLD
- - 정보처리기사
-<div align=center>
 </div>
 
 - - -
+
+ <h3 align="center">Licence</h3>
+<div align=center>
+ - SQLD
+ - 정보처리기사
+</div>
+
+- - -
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dlsxo14700})](https://solved.ac/{dlsxo14700})
+
+![Intae0099's github stats](https://github-readme-stats.vercel.app/api?username=Intae0099)
 
 <div align=center>
 	
