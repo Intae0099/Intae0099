@@ -57,6 +57,7 @@ SQLD
 #
 
 <div align=center>
+<h2>Python</h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlsxo14700)](https://solved.ac/dlsxo14700)
@@ -66,11 +67,11 @@ SQLD
 </div>
 
 <div align=center>
-
+<h2>Java</h2>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=xodls9239)](https://solved.ac/xodls9299)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodls9239&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodls9239&layout=compact) -->
 
 </div>
 
