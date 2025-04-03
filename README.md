@@ -68,6 +68,7 @@ SQLD
 
 <div align=center>
 <h2>Java</h2>
+	
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=xodls9239)](https://solved.ac/xodls9299)
 
