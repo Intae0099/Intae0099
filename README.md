@@ -71,7 +71,7 @@ SQLD
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=xodls9239)](https://solved.ac/xodls9299)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodls9239&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodls9239&layout=compact)
 
 </div>
 
