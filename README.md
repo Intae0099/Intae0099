@@ -33,6 +33,10 @@
 
 <h3 align="center">🏆Award</h3>
 <div align=center>
+
+SSAFY 자율 프로젝트 발표회 (우수상)
+
+SSAFY 공통 프로젝트 발표회 (우수상)
 	
 캡스톤디자인 전시회 (우수상)
 
