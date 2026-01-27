@@ -3,7 +3,7 @@
 <h3 align="center">📝Profile</h3>
 <div align=center>
 	충북대학교 소프트웨어 학과 졸업 (2018.03 ~ 2024.02)
-	삼성 SOFTWARE 청년 아카데미 수료중 (2025.01 ~ )
+	삼성 SOFTWARE 청년 아카데미 수료 (2025.01 ~ 2025.12)
 </div>
 
 #
