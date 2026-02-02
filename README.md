@@ -1,12 +1,13 @@
 <h1 align="center"> Developer Kim Tae In</h1>
 
 <h3 align="center">📝Profile</h3>
+
 <div align=center>
-	
-	충북대학교 소프트웨어 학과 졸업 (2018.03 ~ 2024.02)
-	
-	삼성 청년 SW AI 아카데미 수료 (2025.01 ~ 2025.12)
-	
+
+충북대학교 소프트웨어 학과 졸업 (2018.03 ~ 2024.02)
+
+삼성 청년 SW AI 아카데미 수료 (2025.01 ~ 2025.12)
+
 </div>
 
 #
