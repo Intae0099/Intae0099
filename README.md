@@ -70,12 +70,15 @@ Opic IM2 (영어)
 #
 
 <div align=center>
+
+<h1>Algorithm</h1>
+	
 <h2>Python</h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlsxo14700)](https://solved.ac/dlsxo14700)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intae0099&layout=compact)
+
 
 </div>
 
@@ -85,7 +88,7 @@ Opic IM2 (영어)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=xodls9239)](https://solved.ac/xodls9299)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodls9239&layout=compact)
+
 
 </div>
 
