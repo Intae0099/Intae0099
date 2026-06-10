@@ -63,6 +63,8 @@ SQLD
 
 정보처리기사
 
+AWS Certified Solutions Architect - Associate
+
 Opic IM2 (영어)
 
 </div>
